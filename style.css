@@ -1,5 +1,5 @@
-html {
-    background: black;
+body {
+    background-color: black;
 }
 
 #main-head {
@@ -10,4 +10,22 @@ html {
 
 h2 {
     color: gold;
+    text-align: center;
+    padding: 5px;
 }
+
+p {
+    color: gold;
+    text-align: center;
+    padding: 5px;
+}
+
+ul {
+    color: gold;
+    
+}
+
+a {
+    color: gold;
+}
+
