@@ -1,4 +1,13 @@
-h1 {
-    background: blue
-   
+html {
+    background: black;
+}
+
+#main-head {
+    text-align: center;
+    color: gold;
+    background: maroon;
+}
+
+h2 {
+    color: gold;
 }
